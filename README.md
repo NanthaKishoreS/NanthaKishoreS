@@ -5,7 +5,7 @@
 
 💻 Currently exploring core **Object-Oriented Programming (OOP)** concepts and diving into **Java**.
 
-🌱 Learning **Java** for the past few weeks and have a foundational understanding of **C/C++**. I primarily use **Eclipse IDE** for Java development.
+🌱 Learning **Java** for the past few weeks and have a foundational understanding of **C/C++**. I primarily use **IntelliJ Idea** amd **Eclipse IDE** for Java development.
 
 🐧 Gaining hands-on experience with **Linux command-line tools** and enjoy working in the **Ubuntu** environment.
 
