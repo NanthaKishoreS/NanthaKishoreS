@@ -3,7 +3,7 @@
 
 🎓 I'm a first-year student at **Sri Venkateswara College of Engineering**, passionate about problem-solving and Networking with people.
 
-💻 Currently exploring core **Object-Oriented Programming (OOP)** concepts and diving into **Java**.
+💻 Currently exploring core **Object-Oriented Programming (OOP)** and **DSA** concepts hence diving into the world of **Java**.
 
 🌱 Learning **Java** for the past few weeks and have a foundational understanding of **C/C++**. I primarily use **IntelliJ Idea** amd **Eclipse IDE** for Java development.
 
