@@ -1,7 +1,7 @@
 # Nantha Kishore S
 # 👋 Hi there, I'm Nantha Kishore S!
 
-🎓 I'm a first-year student at **Sri Venkateswara College of Engineering**, passionate about problem-solving and Networking with people.
+🎓 I'm a first-year student at **Sri Venkateswara College of Engineering**, passionate about problem-solving and Greatly Interested in Networking with people.
 
 💻 Currently exploring core **Object-Oriented Programming (OOP)** and **DSA** concepts hence diving into the world of **Java**.
 
