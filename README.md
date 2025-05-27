@@ -21,26 +21,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanthaKishoreS&layout=compact&theme=github_dark" />
-</p>
-
----
-
-## ✨ Animated Typing Footer
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Keep+Learning+Java+🚀;Happy+Coding+👨‍💻" alt="Typing SVG" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/snanthakishore06" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
