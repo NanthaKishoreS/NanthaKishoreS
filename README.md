@@ -1,8 +1,3 @@
-<!-- Banner (optional) -->
-<p align="center">
-  <img src="https://i.imgur.com/l1vbd3R.png" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Nantha Kishore S</h1>
 <h3 align="center">🎓 First-Year Student | Java Learner | Ubuntu Explorer</h3>
 
