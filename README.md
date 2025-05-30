@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nantha Kishore S</h1>
 <h3 align="center">🎓 First-Year Student | Java Learner | Ubuntu Explorer</h3>
 
----
+--
 
 ## 🧑‍💻 About Me
 
