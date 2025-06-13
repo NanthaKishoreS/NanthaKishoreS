@@ -11,7 +11,7 @@
 - 🧠 I work primarily with **IntelliJ IDEA** and **Eclipse IDE** for Java development.  
 - 🐧 I enjoy working in the **Ubuntu** environment and gaining hands-on experience with **Linux command-line tools**.
 
----
+--
 
 ## 🛠️ Tools & Technologies
 
