@@ -1,23 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nantha Kishore S</h1>
-<h3 align="center">🎓 First-Year Student | Java Learner | Ubuntu Explorer</h3>
+<h3 align="center">🎓 First-Year Student </h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🎓 I'm a first-year student at **Sri Venkateswara College of Engineering**, passionate about problem-solving and connecting with like-minded people.  
-- 💻 Currently exploring core **Object-Oriented Programming (OOP)** and **Data Structures & Algorithms (DSA)**, diving deeper into **Java**.  
-- 🌱 Learning **Java** for the past few weeks with a foundational background in **C/C++**.  
-- 🧠 I work primarily with **IntelliJ IDEA** and **Eclipse IDE** for Java development.  
 - 🐧 I enjoy working in the **Ubuntu** environment and gaining hands-on experience with **Linux command-line tools**.
 
 --
-
-## 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,linux,bash,intellij,eclipse,github" alt="Skill Icons" />
-</p>
-
----
-
