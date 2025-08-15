@@ -10,7 +10,6 @@
 
 ## 📈 GitHub Stats
 
-![Nantha Kishore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NanthaKishoreS&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NanthaKishoreS&layout=compact&theme=github_dark)
 --
