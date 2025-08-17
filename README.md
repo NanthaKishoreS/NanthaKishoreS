@@ -10,7 +10,6 @@
 
 ## 📈 GitHub Stats
 
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NanthaKishoreS&layout=compact&theme=github_dark)
 ----
 
