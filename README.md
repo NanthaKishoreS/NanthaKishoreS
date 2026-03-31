@@ -8,14 +8,18 @@
 - 🎓 I'm a somophore at **Sri Venkateswara College of Engineering**, passionate about problem-solving and connecting with like-minded people.  
 - 🐧 I enjoy working in the **Ubuntu** environment and gaining hands-on experience with **Linux command-line tools**.
 
-
 ### 🚀 My GitHub Dashboard
 
-![Your GitHub Stats](https://vercel.app)
+<p align="center">
+  <img src="https://vercel.app" alt="NanthaKishoreS GitHub Stats" />
+</p>
 
-![Your Top Languages](https://vercel.app)
+<p align="center">
+  <img src="https://vercel.app" alt="NanthaKishoreS Top Languages" />
+</p>
 
-![Your Streak Stats](https://demolab.com)
-
+<p align="center">
+  <img src="https://demolab.com" alt="NanthaKishoreS Streak Stats" />
+</p>
 
 
