@@ -9,6 +9,13 @@
 - 🐧 I enjoy working in the **Ubuntu** environment and gaining hands-on experience with **Linux command-line tools**.
 
 
+### 🚀 My GitHub Dashboard
+
+![Your GitHub Stats](https://vercel.app)
+
+![Your Top Languages](https://vercel.app)
+
+![Your Streak Stats](https://demolab.com)
 
 
 
