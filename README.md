@@ -1,219 +1,329 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=650&lines=whoami;NANTHA+KISHORE+S;Backend+%2B+Systems+%2B+Linux;%3E_+arch+linux+daily+driver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=39D353&center=true&vCenter=true&width=600&lines=booting+profile...;user%3A+nantha-kishore-s;role%3A+backend+%2B+systems+%2B+linux;status%3A+building" alt="Typing SVG" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=NanthaKishoreS&label=Profile+Views&color=39D353&style=flat-square" />
-  <a href="https://www.linkedin.com/in/nanthakishore06"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/NanthaKishoreS/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
-  <a href="mailto:nanthakishore06@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+<br>
+
+# NANTHA KISHORE S
+
+`software engineering` · `backend` · `systems` · `linux` · `machine learning`
+
+<a href="https://www.linkedin.com/in/nanthakishore06"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/NanthaKishoreS/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+<a href="mailto:nanthakishore06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=NanthaKishoreS&label=visitors&color=39D353&style=flat-square"/>
 
 </div>
 
----
+<br>
 
-### 🧑‍💻 About Me
-
-```bash
-$ cat about_me.txt
+```text
+$ whoami
 ```
 
-- 🎓 Third-year **B.E. Computer Science and Engineering** @ Sri Venkateswara College of Engineering
-- 💻 Focused on **software engineering, backend development, systems, and Linux**
-- 🐧 Started on Ubuntu, moved to **Arch Linux** — built a lightweight, terminal-centric setup for resource-constrained hardware
-- ⚙️ Curious about **how and why systems work**, especially at the OS and backend level
-- 🔬 Research contributor on a **C-DAC-sponsored project** studying AI/ML integration into OS layers
-- 🤖 Exploring **Machine Learning**, hands-on with TensorFlow
-- 🚀 Building through **hackathons, research, and independent experimentation**
+```
+nantha-kishore-s
+└── computer science undergraduate, SVCE, Chennai
+    ├── backend systems
+    ├── linux / operating-system internals
+    ├── software engineering
+    └── machine learning (exploring)
 
----
+Third-year B.E. Computer Science and Engineering student.
 
-### 🛠️ Tech Stack
+I tend to work from the bottom up — understanding how something works
+before trying to optimize or build on top of it. That's what pulled me
+from "using Linux" to configuring i3, tuning swap behaviour, and reading
+about OS layers for a research project.
 
-**Languages**
+Daily driver: Arch Linux. Most of my week happens in a terminal.
+```
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</p>
+<br>
 
-**Backend & Systems**
+```text
+$ cat /proc/current-interests
+```
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+```
+SYSTEMS
+  linux · process management · resource management
+  CLI environments · operating-system architecture
 
-**Machine Learning & Tools**
+BACKEND
+  FastAPI · REST APIs · service communication · microservices · Docker
 
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+MACHINE LEARNING
+  Python · TensorFlow · lightweight models · AI/ML systems research
 
----
+CURRENTLY READING UP ON
+  distributed systems · kernel behaviour · scheduling & memory management
+```
 
-### 🚀 Featured Projects
+<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```text
+$ cat skills.yaml
+```
 
-**🐧 Efficient Linux Environment**
-Lightweight Arch Linux setup tuned for a 4GB DDR3 laptop.
-- Swapped GNOME for the **i3** tiling WM
-- Cut steady-state RAM from ~3GB to **under 1GB**
-- Configured **ZRAM, ZSWAP, TLP** + custom Bash shortcuts
-- Built separate performance / battery-saver modes
+```yaml
+languages:      Java, Python, C++, Bash
+backend:        FastAPI, Node.js (basic), REST APIs
+systems:        Linux, Arch Linux, Ubuntu, i3, CLI,
+                Process Management, ZRAM, ZSWAP, TLP
+machine_learning: TensorFlow, Neural Networks, Lightweight ML Models
+tools:          Git, GitHub, Docker, VS Code
+also_used_in_projects: React.js, Flutter, Firebase, Unity
+```
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-**🤖 AI-Enabled Operating Systems**
-Research contributor on a **₹9.5L C-DAC-sponsored** feasibility study.
-- Physical Infrastructure & Environment
-- Operating System Core
-- Middleware & Core System Services
-- AI/ML mapping across mobile, HPC, server, embedded & desktop
+## `$ ls ~/projects`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<details open>
+<summary><b>01 · efficient-linux-environment</b> — daily-driver tuning, solo project</summary>
+<br>
 
-**💧 JalGarbha — Smart RWH Ecosystem**
-Location-aware rainwater recharge recommendation system.
-- 🏆 **Top 4 / 76 teams** — SIH Internal Hackathon 2025
-- Built the **FastAPI backend** end-to-end
-- Worked with multi-model ML pipelines · Team of 6
-
-</td>
-<td width="50%" valign="top">
-
-**📦 Supply Chain Intelligence Platform**
-Distributed prototype across **6 containerized microservices**.
-- Designed inter-service communication flows
-- Containerized with **Docker**
-- Shipment tracking & warehouse workflow logic
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NanthaKishoreS&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=E6EDF3" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanthaKishoreS&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=E6EDF3" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NanthaKishoreS&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=58A6FF&currStreakLabel=E6EDF3" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NanthaKishoreS&theme=react-dark&hide_border=true&bg_color=0D1117&color=E6EDF3&line=39D353&point=58A6FF" width="95%" />
-</div>
-
-> 💡 If any card above shows "Something went wrong" or looks stale, it's almost always the free stats API rate-limiting or caching — not your profile. Re-run the workflow below and it self-heals (see **Auto-Refresh** section).
-
----
-
-### 🧩 Coding Profiles
-
-<div align="center">
-  <a href="https://leetcode.com/u/NanthaKishoreS/">
-    <img src="https://leetcard.jacoblin.cool/NanthaKishoreS?theme=dark&font=baloo&ext=heatmap" />
-  </a>
-</div>
-
-<p align="center">80+ problems solved &nbsp;·&nbsp; 4 contests attended &nbsp;·&nbsp; Focus: Array/String efficiency</p>
-
----
-
-### 🏆 Achievements
+A personal experiment in making a 4GB DDR3 laptop usable as a daily development machine.
 
 | | |
 |---|---|
-| 🥇 **NPTEL Elite + Gold** | Neural Networks for Computer Vision & NLP — IIT Guwahati |
-| 📊 **95 / 100** | NPTEL final score |
-| 🏆 **Top 4 / 76** | SIH Internal Hackathon 2025 |
-| 🔬 **Research Contributor** | C-DAC-sponsored AI-Enabled OS project |
+| **Hardware** | Intel Core i3-6100U · 4GB DDR3 |
+| **Environment** | Arch Linux · i3 window manager |
+| **Tools** | Bash · ZRAM · ZSWAP · TLP |
 
----
+- Started on Ubuntu for ~8 months, then moved to Arch Linux and adopted a terminal-centric workflow
+- Replaced GNOME with the **i3** tiling window manager to cut overhead
+- Built Bash shortcuts for application launching and switching system modes
+- Configured separate **performance** and **battery-saver** profiles
+- Added manual control over background processes
+- **Reduced steady-state RAM usage from ~3GB to under 1GB**
+- Noticeably faster boot time; used the machine for daily dev work and hackathons
 
-### 🎯 Current Focus
+> What started as a necessity became a genuine interest in how Linux manages system resources.
+
+</details>
+
+<details>
+<summary><b>02 · ai-enabled-operating-systems</b> — research contributor, C-DAC-sponsored, team of 6</summary>
+<br>
+
+A feasibility study on integrating AI/ML into critical layers of an operating system, undertaken by the CSE department in connection with **C-DAC** (Centre for Development of Advanced Computing).
+
+| | |
+|---|---|
+| **Team** | 6 |
+| **Funding** | ₹9.5 lakh |
+| **Status** | Ongoing |
+| **Scope** | Mobile · HPC · Server · Embedded · Desktop |
+
+My research focus:
 
 ```
-Backend Engineering
-       ↓
-Linux & Systems
-       ↓
-Distributed Systems
-       ↓
-Machine Learning
-       ↓
-AI + Operating Systems
+Physical Infrastructure & Environment
+                ↓
+        Operating System Core
+                ↓
+  Middleware & Core System Services
 ```
 
----
+- Researched the layers above and studied physical-infrastructure / environmental considerations
+- Identified gaps and possible innovation opportunities within each layer
+- Studied AI/ML integration possibilities specific to those layers
+- Consolidated individual and team research into the overall AI/ML architecture mapping
+- Presented findings across C-DAC-arranged review meetings
 
-### 🔁 Auto-Refresh Snippet (fixes "broken" cards)
+</details>
 
-Free stats widgets (github-readme-stats, streak-stats, leetcard) occasionally go down because they're rate-limited shared instances. Two reliable fixes, both used by popular profiles:
+<details>
+<summary><b>03 · JalGarbha</b> — Smart India Hackathon 2025, Top 4 / 76, team of 6</summary>
+<br>
 
-**1. Self-host on Vercel (most reliable — takes 5 minutes)**
-Fork [`anuraghazra/github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) and [`github-readme-streak-stats`](https://github.com/DenverCoder1/github-readme-streak-stats), deploy each to your own free Vercel project, then swap the image URLs above to your own `*.vercel.app` domain. Removes the shared rate limit entirely.
+Smart Rooftop Rainwater Harvesting Ecosystem — a location-aware rainwater recharge recommendation platform.
 
-**2. Snake contribution animation (no external API, never breaks)**
-Add this GitHub Action — it renders your contribution graph as an animated snake, generated and committed by GitHub itself, so it never depends on a third-party server:
+| | |
+|---|---|
+| **Result** | Top 4 of 76 teams — SIH Internal Selection |
+| **Backend** | FastAPI |
+| **ML** | TensorFlow + additional models |
+| **Other** | React.js, Flutter, Firebase, Unity (teammate) |
+
+- Personally implemented the **FastAPI backend** and the connections between application components
+- Team used multiple ML models to assess environmental conditions: rooftop area/material, soil condition, and geographic coordinates
+- Explored prediction of water-collection efficiency and flow from rooftop to recharge pit
+- A teammate built the 3D representation of the recharge pit in Unity
+
+</details>
+
+<details>
+<summary><b>04 · supply-chain-intelligence</b> — YAH'26 (ACM), team of 4</summary>
+<br>
+
+A distributed prototype built around six containerized microservices for shipment tracking and warehouse logic.
+
+| | |
+|---|---|
+| **Services** | 6, containerized with Docker |
+| **Focus** | APIs · shipment tracking · warehouse logic |
+| **Team** | 4 |
+
+- Defined communication protocols between the six services
+- Worked on shipment-tracking and warehouse workflow logic
+- Containerized all services with Docker
+- Demonstrated live API communication between services
+
+</details>
+
+<details>
+<summary><b>05 · developer-telemetry</b> — Blueprints'26, team of 6</summary>
+<br>
+
+A prototype exploring developer activity and code-efficiency telemetry, shipped as a downloadable VS Code extension.
+
+| | |
+|---|---|
+| **Extension** | TypeScript |
+| **Processing** | Python |
+| **Environment** | VS Code |
+
+The extension explores code-change capture, developer-activity detection, JSON-based telemetry, and lightweight Python-side processing to link activity with task requirements and generate an efficiency/contribution score.
+
+My contribution was the extension's structure, monitoring flow, and the real-time connections for developer activity — not the full implementation, which was built together with Antigravity.
+
+</details>
+
+<br>
+
+## `$ ./root-access`
+
+**Root Access — Technical Hunt**
+Association of Computer Engineers (ACE), SVCE · Department Symposium: INTERRUPT
+**Role:** Lead Organizer · **Participants:** 90+
+
+A terminal-oriented technical competition:
+
+```
+terminal-based programming
+        ↓
+generate access keys
+        ↓
+navigate hidden directories
+        ↓
+solve system-level challenges
+```
+
+**Code Validation System** — a two-step approach:
+
+```
+Dummy Input → Original Input → Algorithm / Implementation Validation
+```
+
+**Technical operations:** configured 45+ offline development environments, managed the progressive release of system-level problem statements, and coordinated the technical execution of the event.
+
+<br>
+
+## `$ git log --oneline --achievements`
+
+```
+2026   NPTEL — Elite + Gold
+       Neural Networks for Computer Vision & Natural Language Processing
+       Score: 95/100 · IIT Guwahati
+
+2026   C-DAC-sponsored OS research
+       AI/ML integration feasibility study · ₹9.5 lakh project funding
+
+2026   Root Access — Technical Hunt
+       Lead Organizer · 90+ participants · 45+ offline dev environments
+
+2025   Smart India Hackathon — Internal Selection
+       JalGarbha · Top 4 of 76 teams
+```
+
+<br>
+
+## `$ cat leadership.log`
+
+**Association of Computer Engineers — ACE, SVCE**
+Current: **Design Team Lead** (previously Design Executive)
+
+- Coordinating junior and peer members
+- Managing design outputs for department technical events
+- Reviewing and coordinating creative deliverables
+
+<br>
+
+## `$ ./leetcode --stats`
+
+<a href="https://leetcode.com/u/NanthaKishoreS/"><img src="https://img.shields.io/badge/LeetCode-NanthaKishoreS-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+
+```
+80+ problems solved · 4 contests attended · 50-day streak badge
+current focus: arrays · strings · algorithmic efficiency
+```
+
+<br>
+
+## `$ git status`
+
+```
+On branch: building
+
+✓ Backend
+✓ Linux
+✓ Systems
+→ Distributed Systems
+→ Machine Learning
+→ AI + Operating Systems
+```
+
+Currently trying to move beyond simply *using* systems toward understanding what happens underneath them:
+
+```
+processes → memory → scheduling → I/O → resource management → kernel behaviour
+```
+
+<br>
+
+## `$ cat education.yaml && cat certification.yaml`
 
 ```yaml
-# .github/workflows/snake.yml
-name: generate animation
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  push:
-    branches: [ main ]
-  workflow_dispatch:
+education:
+  degree:  B.E. Computer Science & Engineering
+  college: Sri Venkateswara College of Engineering (SVCE), Chennai
+  years:   2024 – 2028
+  cgpa:    8.23 / 10
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: NanthaKishoreS
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+certification:
+  name:    Neural Networks for Computer Vision & Natural Language Processing
+  issuer:  NPTEL · IIT Guwahati
+  length:  12-week course (Jan – Apr 2026)
+  score:   95 / 100
+  award:   Elite + Gold
 ```
 
-Then embed it:
+<br>
 
-```markdown
-<img src="https://raw.githubusercontent.com/NanthaKishoreS/NanthaKishoreS/output/github-snake-dark.svg" />
-```
-
----
+## `$ git log --stat`
 
 <div align="center">
-<sub>Terminal-driven development · Chennai, India · Arch Linux (btw)</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=NanthaKishoreS&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=E6EDF3" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanthaKishoreS&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=39D353&text_color=E6EDF3" height="165"/>
+</div>
+
+<br>
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────┐
+│                                          │
+│   currently: learning how systems work   │
+│                                          │
+│   Chennai, India · Arch Linux            │
+│                                          │
+└──────────────────────────────────────────┘
+
+   build it · break it · understand it · improve it
+```
+
 </div>
