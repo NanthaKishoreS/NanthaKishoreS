@@ -303,12 +303,11 @@ certification:
 
 <br>
 
-## `$ git log --stat`
+## `$ ./readme --status`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NanthaKishoreS&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=E6EDF3" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanthaKishoreS&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=39D353&text_color=E6EDF3" height="165"/>
-</div>
+```
+building in public · profile last rebuilt: Sept 2026
+```
 
 <br>
 
