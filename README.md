@@ -83,7 +83,7 @@ also_used_in_projects: React.js, Flutter, Firebase, Unity
 <details open>
 <summary><b>01 · efficient-linux-environment</b> — daily-driver tuning, solo project</summary>
 <br>
-
+  
 A personal experiment in making a 4GB DDR3 laptop usable as a daily development machine.
 
 | | |
