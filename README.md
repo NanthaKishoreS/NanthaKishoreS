@@ -1,7 +1,7 @@
 <div align="center">
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=39D353&center=true&vCenter=true&width=600&lines=booting+profile...;user%3A+nantha-kishore-s;role%3A+backend+%2B+systems+%2B+linux;status%3A+building" alt="Typing SVG" />
-
+ 
 <br>
 
 # NANTHA KISHORE S
