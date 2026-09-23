@@ -14,7 +14,6 @@
 <img src="https://komarev.com/ghpvc/?username=NanthaKishoreS&label=visitors&color=39D353&style=flat-square"/>
 
 </div>
-
 <br>
   
 ```text
